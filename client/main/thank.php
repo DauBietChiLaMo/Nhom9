@@ -1,0 +1,1 @@
+<p class="text-muted fw-semibold">Cám ơn bạn đã mua hàng! Chúng tôi sẽ liên hệ bạn trong 24 giờ!</p>
